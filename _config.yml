@@ -1,0 +1,14 @@
+layout_spectrum: 0.2787325
+color:
+  saturation: 0.113726
+  lightness: 0.1056385
+  brandStrength: 0.8222342
+  brandColors:
+    - '#3F403F'
+    - '#659978'
+    - '#C64B43'
+    - '#ABCFB6'
+    - '#FFCEB4'
+  rhythmicContrast: 0.7044677
+typography_spectrum: 0.8711066
+name: 'Discoverpeach '
